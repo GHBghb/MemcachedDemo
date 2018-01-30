@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c594e063-56ef-4485-ae29-2543adec9855" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Memcached_Get.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/memcached/Memcached_Get.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Memcached_Gets.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/memcached/Memcached_Gets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Memcached_Incr_Decr.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/memcached/Memcached_Incr_Decr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Memcached_Prepend.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/memcached/Memcached_Prepend.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="79">
+              <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Memcached_Replace.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/memcached/Memcached_Replace.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Memcached_Set.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/memcached/Memcached_Set.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemcachedJava.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/memcached/MemcachedJava.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="12" column="44" lean-forward="false" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Memcached_Add.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/memcached/Memcached_Add.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-58">
+              <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Memcached_Add.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/com/memcached/Memcached_Add.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#1311#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayModNodeLocator.class" pinned="false" current-in-tab="true">
+        <entry file="jar://$PROJECT_DIR$/lib/spymemcached-2.10.3.jar!/net/spy/memcached/ArrayModNodeLocator.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/memcached/Memcached_Add.java" />
+        <option value="$PROJECT_DIR$/src/com/memcached/Memcached_Append.java" />
+        <option value="$PROJECT_DIR$/src/com/memcached/Memcached_CAS.java" />
+        <option value="$PROJECT_DIR$/src/com/memcached/Memcached_Delete.java" />
+        <option value="$PROJECT_DIR$/src/com/memcached/Memcached_Get.java" />
+        <option value="$PROJECT_DIR$/src/com/memcached/Memcached_Gets.java" />
+        <option value="$PROJECT_DIR$/src/com/memcached/Memcached_Incr_Decr.java" />
+        <option value="$PROJECT_DIR$/src/com/memcached/Memcached_Prepend.java" />
+        <option value="$PROJECT_DIR$/src/com/memcached/Memcached_Replace.java" />
+        <option value="$PROJECT_DIR$/src/com/memcached/Memcached_Set.java" />
+        <option value="$PROJECT_DIR$/src/com/memcached/MemcachedJava.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="17" />
+    <option name="y" value="37" />
+    <option name="width" value="1381" />
+    <option name="height" value="837" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Memcached_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Memcached_Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Memcached_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Memcached_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Memcached_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Memcached_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="memcached" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Memcached_Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.memcached.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.memcached.Memcached_Set" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Memcached_Java" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Memcached_Set" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c594e063-56ef-4485-ae29-2543adec9855" name="Default" comment="" />
+      <created>1517303758814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517303758814</updated>
+      <workItem from="1517303764810" duration="1736000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1736000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="17" y="37" width="1381" height="837" extended-state="1" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11859838" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24943988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Memcached_Java.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spymemcached-2.10.3.jar!/net/spy/memcached/MemcachedClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="340" column="36" lean-forward="false" selection-start-line="340" selection-start-column="36" selection-end-line="340" selection-end-column="36" />
+          <folding>
+            <marker date="1502258614000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1502258614000" expanded="false" signature="141:2206" ph="..." />
+            <marker date="1502258614000" expanded="true" signature="2863:2935" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="3014:3074" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="3175:4514" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="4575:4922" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="4985:5333" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="5374:5385" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="5434:5440" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="5487:5498" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="5521:5527" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="5590:5674" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="5770:5827" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="5951:6162" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="6285:7042" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="6617:6940" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="6678:6697" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="6726:6740" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="6795:6814" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="6829:6843" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="6879:6898" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="6916:6930" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="7148:7232" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="7360:8004" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="7682:7902" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="7743:7762" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="7791:7805" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="7841:7860" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="7878:7892" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="8072:8083" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="8128:8134" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="8221:8811" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="8480:8709" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="8544:8563" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="8598:8612" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="8648:8667" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="8685:8699" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="8890:8957" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="9026:9092" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="9188:9270" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="9356:9437" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="9517:9585" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="9655:9722" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="9819:9902" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="9989:10071" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="10177:10240" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="10355:11672" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="10700:11570" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="10762:11370" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="11425:11444" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="11459:11473" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="11509:11528" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="11546:11560" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="11761:11834" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="11932:12010" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="12094:12152" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="12245:13138" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="13205:13273" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="13349:13422" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="13512:13583" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="13656:13740" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="13830:13901" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="13974:14058" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="14152:14227" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="14304:14392" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="14473:15358" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="14733:15256" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="14840:14859" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="14884:14898" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="14966:15159" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="15195:15214" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="15232:15246" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="15409:15420" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="15463:15469" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="15567:16475" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="15851:16373" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="15960:15979" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="16004:16018" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="16096:16276" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="16312:16331" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="16349:16363" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="16543:16554" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="16598:16604" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="16668:17344" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="17424:18112" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="18174:18185" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="18236:18242" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="18288:18299" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="18338:18344" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="18397:19137" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="19172:19183" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="19221:19227" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="19342:22056" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="21068:21542" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="21132:21151" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="21172:21186" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="21254:21445" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="21481:21500" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="21518:21532" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="22170:22236" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="22337:22448" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="22548:22658" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="22742:22809" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="22892:22956" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="23047:23137" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="23211:23314" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="23399:23471" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="23585:24512" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="23888:24410" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="23997:24016" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="24041:24055" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="24091:24110" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="24128:24142" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="24220:24400" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="24596:25363" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="25429:25440" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="25486:25492" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="25575:25632" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="25697:25708" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="25751:25757" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="25831:25916" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="25973:26071" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="26125:27056" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="26247:26355" ph="newOp(n, latch) → {" />
+            <marker date="1502258614000" expanded="true" signature="26502:26774" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="26569:26596" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="26623:26645" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="26689:26716" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="26734:26756" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="26785:26800" ph="}" />
+            <marker date="1502258614000" expanded="false" signature="27119:27130" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="27165:27171" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="27251:28555" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="27376:27484" ph="newOp(n, latch) → {" />
+            <marker date="1502258614000" expanded="true" signature="27705:28276" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="27771:27798" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="27831:27853" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="27926:28147" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="28191:28218" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="28236:28258" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="28287:28302" ph="}" />
+            <marker date="1502258614000" expanded="true" signature="28632:29550" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="28848:29093" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="28907:28926" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="28982:28996" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="29032:29051" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="29069:29083" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="29593:29604" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="29654:29660" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="29702:29713" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="29769:29775" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="29818:29829" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="29879:29885" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="29927:29938" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="29994:30000" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="30063:30142" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="30204:30289" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="30352:30431" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="30493:30578" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="30666:31844" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="31943:32562" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="32212:32460" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="32272:32363" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="32399:32418" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="32436:32450" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="32628:32699" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="32764:32841" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="32907:32978" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="33043:33120" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="33173:33184" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="33245:33251" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="33304:33387" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="33440:33451" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="33512:33518" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="33571:33654" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="33660:33678" ph="/**...*/" />
+            <marker date="1502258614000" expanded="false" signature="33759:33770" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="33794:33800" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="33856:33867" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="33895:33901" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="33968:34874" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="34271:34576" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="34330:34349" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="34374:34388" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="34431:34450" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="34465:34479" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="34515:34534" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="34552:34566" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="34935:37162" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="35156:35264" ph="newOp(n, latch) → {" />
+            <marker date="1502258614000" expanded="true" signature="35361:35637" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="35428:35455" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="35486:35508" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="35552:35579" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="35597:35619" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="35704:35719" ph="}" />
+            <marker date="1502258614000" expanded="true" signature="35846:37155" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="35895:36221" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="36351:36489" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="36532:36797" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="36835:37145" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="37207:37218" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="37240:37246" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="37292:38344" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="37417:37525" ph="newOp(n, latch) → {" />
+            <marker date="1502258614000" expanded="true" signature="37611:38134" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="37684:38005" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="38049:38076" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="38094:38116" ph=" }" />
+            <marker date="1502258614000" expanded="false" signature="38145:38160" ph="}" />
+            <marker date="1502258614000" expanded="false" signature="38372:38383" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="38425:38431" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="38490:39871" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="39935:40669" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="39986:40094" ph="newOp(n, latch) → {" />
+            <marker date="1502258614000" expanded="true" signature="40175:40395" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="40219:40246" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="40264:40286" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="40354:40377" ph="{}" />
+            <marker date="1502258614000" expanded="false" signature="40406:40421" ph="}" />
+            <marker date="1502258614000" expanded="true" signature="40726:41147" ph="{...}" />
+            <marker date="1502258614000" expanded="false" signature="41206:41217" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="41255:41261" ph=" }" />
+            <marker date="1502258614000" expanded="true" signature="41339:41620" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="41675:42066" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="42139:42428" ph="{...}" />
+            <marker date="1502258614000" expanded="true" signature="42479:42486" ph="{}" />
+            <marker date="1502258614000" expanded="false" signature="42516:42527" ph=" { " />
+            <marker date="1502258614000" expanded="false" signature="42562:42568" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/memcached/Memcached_Append.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/memcached/Memcached_CAS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/memcached/Memcached_Delete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/memcached/Memcached_Get.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/memcached/Memcached_Gets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/memcached/Memcached_Incr_Decr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/memcached/Memcached_Prepend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/memcached/Memcached_Replace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/memcached/Memcached_Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/memcached/MemcachedJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="12" column="44" lean-forward="false" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/memcached/Memcached_Add.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/memcached/Memcached_Add.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spymemcached-2.10.3.jar!/net/spy/memcached/ArrayModNodeLocator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
